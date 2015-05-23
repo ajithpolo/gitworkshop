@@ -1,4 +1,2 @@
 This is my first line- ajith .....New line added
-
-
-This is my second line -ajith
+This is my second line -ajith second line
